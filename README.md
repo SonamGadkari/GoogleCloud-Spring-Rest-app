@@ -3,7 +3,6 @@ This app basically gives the student details using get request. App is deployed 
 <br/>
 Application is developed using java servlets and Spring REST
 <br/>
-App is deployed to google cloud.
-<br/>
-Live Application:
+
+# Live Application:
 https://spring-students.appspot.com/
